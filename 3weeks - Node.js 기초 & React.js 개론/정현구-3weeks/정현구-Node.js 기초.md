@@ -1,4 +1,4 @@
-# **[JavaScript]** 3주차 Npde.js 기초 & React.js 개론 (정현구)
+# **[JavaScript]** 3주차 Npde.js 기초 (정현구)
 
 ## 1 .Node.js란?
 웹 브라우저가 아닌 환경에서도 자바스크립트 코드를 실행시켜주는 런타임, 즉 자바스크립트의 실행 환경(Run time) = 구동기 

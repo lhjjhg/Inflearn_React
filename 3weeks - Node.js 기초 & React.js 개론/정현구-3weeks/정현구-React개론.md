@@ -1,4 +1,4 @@
-# **[JavaScript]** 4주차 React입문 (정현구)
+# **[JavaScript]** 3주차 React개론 (정현구)
 
 ## React란?
 > Meta에서 개발한 오픈소스 Javascript 라이브러리 
